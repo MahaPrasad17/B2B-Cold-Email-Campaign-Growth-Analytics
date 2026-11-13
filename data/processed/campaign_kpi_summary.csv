@@ -1,0 +1,5 @@
+Campaign_ID,Campaign_Name,Target_Industry,Total_Leads_Contacted,Total_Emails_Sent,Total_Emails_Delivered,Total_Bounces,Total_Opens,Total_Clicks,Total_Replies,Total_Positive_Replies,Total_Neutral_Replies,Total_Negative_Replies,Total_Unsubscribes,Total_Conversions,Total_Opportunity_Value,Delivery_Rate,Bounce_Rate,Open_Rate,Click_Rate,Reply_Rate,Positive_Reply_Rate,Unsubscribe_Rate,Conversion_Rate
+CMP-001,IT Tech Hiring Velocity Q1,Information Technology,1513,4269,4236,33,1883,207,151,71,41,8,26,40,734757.0,99.23,0.77,44.45,4.89,3.56,1.68,0.61,0.94
+CMP-002,Manufacturing Plant & Eng Talent Pipeline,Manufacturing,1461,4155,4103,52,1528,229,78,32,16,16,29,20,378606.0,98.75,1.25,37.24,5.58,1.9,0.78,0.71,0.49
+CMP-003,Consulting Executive Search & Onboarding,Consulting,1514,4196,4170,26,2142,254,227,124,57,3,24,82,1431612.0,99.38,0.62,51.37,6.09,5.44,2.97,0.58,1.97
+CMP-004,Fintech & Banking Compliance Hiring,Banking and Finance,1461,4145,4097,48,1646,200,94,34,25,17,20,23,448893.0,98.84,1.16,40.18,4.88,2.29,0.83,0.49,0.56

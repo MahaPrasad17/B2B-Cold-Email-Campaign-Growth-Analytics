@@ -1,0 +1,10 @@
+{
+    "Total_Raw_Records": 6085,
+    "Total_Clean_Records": 5920,
+    "Quarantined_Records": 165,
+    "Duplicate_Records_Removed": 127,
+    "Invalid_Email_Formats_Removed": 38,
+    "Missing_First_Names_Imputed": 38,
+    "Missing_Company_Sizes_Imputed": 34,
+    "Data_Cleanliness_Percentage": 97.29
+}

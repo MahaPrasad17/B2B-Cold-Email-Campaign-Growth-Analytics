@@ -1,0 +1,258 @@
+Lead_ID,First_Name,Last_Name,Company_Name,Business_Email,Suppression_Reason,Suppression_Date
+LEAD-00007,Harper,Garcia,Centurion Health,harper.garcia@centurionhealth.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-00032,Stefan,Verma,Centurion Solutions,stefan.verma@centurionsolutions.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-00058,Priya,Kapoor,Kore Ventures,priya.kapoor@koreventures.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-00065,Jean,Nair,Starlight Ventures,jean.nair@starlightventures.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-00087,Rohan,Weber,Aegis Analytics,rohan.weber@aegisanalytics.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-00114,David,Sharma,Aegis Logistics,david.sharma@aegislogistics.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-00121,Stefan,Rodriguez,Centurion Analytics,stefan.rodriguez@centurionanalytics.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-00125,Neha,Verma,Nova Partners,neha.verma@novapartners.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-00169,Harper,Rodriguez,Vertex Capital,harper.rodriguez@vertexcapital.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-00175,Ananya,Martin,Nova Solutions,ananya.martin@novasolutions.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-00216,Andrew,Fischer,Sterling Partners,andrew.fischer@sterlingpartners.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-00232,Stefan,Gonzalez,Horizon Capital,stefan.gonzalez@horizoncapital.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-00358,Andrew,Martinez,Crestview Partners,andrew.martinez@crestviewpartners.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-00367,Ethan,Weber,Crestview Ventures,ethan.weber@crestviewventures.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-00380,Joseph,Rodriguez,Summit Logistics,joseph.rodriguez@summitlogistics.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-00428,Matthew,Jones,Pinnacle Group,matthew.jones@pinnaclegroup.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-00439,Stefan,Kapoor,Optima Group,stefan.kapoor@optimagroup.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-00444,Emily,Gonzalez,Aegis Industries,emily.gonzalez@aegisindustries.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-00446,Rohan,Gonzalez,Beacon Ventures,rohan.gonzalez@beaconventures.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-00510,Priya,Thomas,Vanguard Partners,priya.thomas@vanguardpartners.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-00523,Emma,Miller,Apex Solutions,emma.miller@apexsolutions.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-00551,Olivia,Johnson,Kore Partners,olivia.johnson@korepartners.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-00560,Robert,Johnson,Nexus Consulting,robert.johnson@nexusconsulting.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-00589,Jean,Jackson,Horizon Industries,jean.jackson@horizonindustries.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-00594,William,Smith,Aegis Group,william.smith@aegisgroup.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-00616,Ananya,Jackson,Beacon Digital,ananya.jackson@beacondigital.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-00634,Matthew,Jones,Vanguard Technologies,matthew.jones@vanguardtechnologies.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-00669,Mia,Johnson,Centurion Analytics,mia.johnson@centurionanalytics.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-00671,Sarah,Weber,Apex Consulting,sarah.weber@apexconsulting.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-00698,Amelia,Verma,Nexus Global,amelia.verma@nexusglobal.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-00700,Sophie,Thomas,Apex Solutions,sophie.thomas@apexsolutions.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-00717,Rohan,Fischer,Beacon Industries,rohan.fischer@beaconindustries.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-00730,Sophia,Davis,Vanguard Group,sophia.davis@vanguardgroup.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-00761,Sophia,Moore,Crestview Technologies,sophia.moore@crestviewtechnologies.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-00780,Sarah,Miller,Beacon Technologies,sarah.miller@beacontechnologies.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-00788,Jessica,Smith,Crestview Group,jessica.smith@crestviewgroup.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-00793,Ananya,Williams,Synergy Global,ananya.williams@synergyglobal.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-00855,Jean,Hernandez,Aegis Technologies,jean.hernandez@aegistechnologies.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-00882,Sophia,Jones,Aegis Partners,sophia.jones@aegispartners.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-00904,Charlotte,Williams,Nexus Analytics,charlotte.williams@nexusanalytics.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-00919,Ava,Verma,Horizon Industries,ava.verma@horizonindustries.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-00993,Stefan,Moore,Sterling Global,stefan.moore@sterlingglobal.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-00995,Rahul,Verma,Starlight Group,rahul.verma@starlightgroup.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-01023,Daniel,Miller,Starlight Consulting,daniel.miller@starlightconsulting.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-01076,Stefan,Fischer,Vertex Global,stefan.fischer@vertexglobal.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-01091,James,Taylor,Optima Partners,james.taylor@optimapartners.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-01145,Olivia,Wilson,Starlight Consulting,olivia.wilson@starlightconsulting.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-01204,Amelia,Jackson,Starlight Health,amelia.jackson@starlighthealth.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-01219,Rahul,Davis,Summit Digital,rahul.davis@summitdigital.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-01231,Matthew,Martin,Centurion Health,matthew.martin@centurionhealth.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-01279,Arjun,Lopez,Horizon Capital,arjun.lopez@horizoncapital.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-01288,Lukas,Schneider,Vertex Solutions,lukas.schneider@vertexsolutions.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-01314,Marcus,Lopez,Paramount Capital,marcus.lopez@paramountcapital.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-01326,Joseph,Davis,Acro Solutions,joseph.davis@acrosolutions.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-01340,Ethan,Jones,Pinnacle Partners,ethan.jones@pinnaclepartners.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-01393,Mia,Kapoor,Synergy Analytics,mia.kapoor@synergyanalytics.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-01412,Stefan,Davis,Beacon Solutions,stefan.davis@beaconsolutions.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-01450,William,Davis,Horizon Group,william.davis@horizongroup.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-01483,Olivia,Johnson,Crestview Global,olivia.johnson@crestviewglobal.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-01502,Emily,Martinez,Crestview Logistics,emily.martinez@crestviewlogistics.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-01522,Ananya,Wilson,Centurion Technologies,ananya.wilson@centuriontechnologies.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-01545,Marcus,Fischer,Pinnacle Global,marcus.fischer@pinnacleglobal.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-01558,Emma,Smith,Vanguard Industries,emma.smith@vanguardindustries.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-01609,Arjun,Miller,Beacon Solutions,arjun.miller@beaconsolutions.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-01618,Ananya,Rodriguez,Starlight Health,ananya.rodriguez@starlighthealth.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-01621,Olivia,Mueller,Acro Logistics,olivia.mueller@acrologistics.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-01626,Daniel,Davis,Sterling Group,daniel.davis@sterlinggroup.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-01641,Jessica,Martin,Acro Technologies,jessica.martin@acrotechnologies.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-01660,James,Anderson,Catalyst Group,james.anderson@catalystgroup.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-01670,Michael,Schneider,Vanguard Technologies,michael.schneider@vanguardtechnologies.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-01701,Ava,Anderson,Starlight Capital,ava.anderson@starlightcapital.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-01711,Amelia,Smith,Quantum Industries,amelia.smith@quantumindustries.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-01715,James,Patel,Acro Industries,james.patel@acroindustries.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-01732,David,Wilson,Horizon Global,david.wilson@horizonglobal.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-01733,Alexander,Gupta,Apex Solutions,alexander.gupta@apexsolutions.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-01758,Marcus,Taylor,Quantum Consulting,marcus.taylor@quantumconsulting.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-01762,Camille,Nair,Vertex Health,camille.nair@vertexhealth.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-01768,William,Mueller,Starlight Logistics,william.mueller@starlightlogistics.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-01802,James,Wilson,Acro Consulting,james.wilson@acroconsulting.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-01812,Jean,Dubois,Acro Logistics,jean.dubois@acrologistics.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-01816,Michael,Verma,Starlight Global,michael.verma@starlightglobal.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-01835,Emma,Anderson,Paramount Technologies,emma.anderson@paramounttechnologies.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-01847,Sarah,Gonzalez,Optima Systems,sarah.gonzalez@optimasystems.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-01855,Charlotte,Davis,Acro Global,charlotte.davis@acroglobal.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-01878,Olivia,Smith,Summit Solutions,olivia.smith@summitsolutions.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-01891,Sophia,Verma,Sterling Logistics,sophia.verma@sterlinglogistics.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-01906,Matthew,Brown,Acro Capital,matthew.brown@acrocapital.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-01912,Neha,Patel,Beacon Partners,neha.patel@beaconpartners.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-01933,Isabella,Verma,Quantum Solutions,isabella.verma@quantumsolutions.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-01934,Joseph,Schneider,Pinnacle Logistics,joseph.schneider@pinnaclelogistics.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-01946,Stefan,Smith,Infinitum Industries,stefan.smith@infinitumindustries.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-01958,Joseph,Fischer,Aegis Industries,joseph.fischer@aegisindustries.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-01985,Sneha,Martinez,Infinitum Health,sneha.martinez@infinitumhealth.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-02010,Rohan,Patel,Beacon Digital,rohan.patel@beacondigital.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-02056,Ava,Nair,Aegis Ventures,ava.nair@aegisventures.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-02058,James,Kapoor,Aegis Systems,james.kapoor@aegissystems.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-02059,Matthew,Davis,Synergy Industries,matthew.davis@synergyindustries.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-02093,Joseph,Mueller,Aegis Ventures,joseph.mueller@aegisventures.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-02168,Priya,Martinez,Optima Capital,priya.martinez@optimacapital.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-02182,Stefan,Weber,Crestview Consulting,stefan.weber@crestviewconsulting.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-02267,Camille,Weber,Optima Analytics,camille.weber@optimaanalytics.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-02273,Harper,Williams,Beacon Health,harper.williams@beaconhealth.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-02294,Priya,Martin,Nova Systems,priya.martin@novasystems.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-02305,Emily,Miller,Vertex Capital,emily.miller@vertexcapital.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-02341,Joseph,Hernandez,Apex Consulting,joseph.hernandez@apexconsulting.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-02357,Marcus,Schneider,Quantum Capital,marcus.schneider@quantumcapital.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-02368,David,Mueller,Nova Systems,david.mueller@novasystems.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-02381,James,Fischer,Vanguard Consulting,james.fischer@vanguardconsulting.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-02448,Emma,Kapoor,Infinitum Partners,emma.kapoor@infinitumpartners.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-02470,Alexander,Moore,Apex Systems,alexander.moore@apexsystems.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-02493,Stefan,Jones,Centurion Capital,stefan.jones@centurioncapital.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-02494,Rahul,Brown,Infinitum Global,rahul.brown@infinitumglobal.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-02507,Emily,Gupta,Vertex Group,emily.gupta@vertexgroup.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-02524,Sophia,Garcia,Aegis Technologies,sophia.garcia@aegistechnologies.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-02531,Olivia,Brown,Nova Industries,olivia.brown@novaindustries.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-02562,Olivia,Schneider,Pinnacle Global,olivia.schneider@pinnacleglobal.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-02586,Michael,Jones,Beacon Industries,michael.jones@beaconindustries.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-02587,Michael,Nair,Optima Partners,michael.nair@optimapartners.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-02619,David,Wilson,Infinitum Systems,david.wilson@infinitumsystems.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-02627,Priya,Jackson,Quantum Systems,priya.jackson@quantumsystems.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-02637,Harper,Wilson,Nexus Solutions,harper.wilson@nexussolutions.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-02672,Jessica,Brown,Vertex Technologies,jessica.brown@vertextechnologies.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-02746,Ethan,Taylor,Centurion Solutions,ethan.taylor@centurionsolutions.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-02823,Isabella,Wilson,Apex Solutions,isabella.wilson@apexsolutions.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-02829,Sophia,Gupta,Nova Consulting,sophia.gupta@novaconsulting.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-02832,Jean,Garcia,Optima Consulting,jean.garcia@optimaconsulting.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-02860,Ananya,Kapoor,Vanguard Solutions,ananya.kapoor@vanguardsolutions.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-02864,Sophie,Moore,Horizon Systems,sophie.moore@horizonsystems.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-02897,James,Lopez,Quantum Partners,james.lopez@quantumpartners.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-02924,James,Anderson,Aegis Group,james.anderson@aegisgroup.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-02926,Sophia,Taylor,Apex Industries,sophia.taylor@apexindustries.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-02928,Isabella,Garcia,Nova Health,isabella.garcia@novahealth.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-02992,Neha,Moore,Kore Group,neha.moore@koregroup.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-03095,Stefan,Jones,Apex Consulting,stefan.jones@apexconsulting.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-03103,Emily,Miller,Optima Consulting,emily.miller@optimaconsulting.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-03148,Ava,Nair,Catalyst Partners,ava.nair@catalystpartners.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-03156,Emily,Kapoor,Apex Partners,emily.kapoor@apexpartners.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-03194,Elena,Thomas,Starlight Solutions,elena.thomas@starlightsolutions.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-03219,Rahul,Moore,Vertex Technologies,rahul.moore@vertextechnologies.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-03228,Ananya,Gupta,Acro Solutions,ananya.gupta@acrosolutions.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-03310,Sophie,Martin,Vanguard Capital,sophie.martin@vanguardcapital.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-03313,Priya,Smith,Acro Capital,priya.smith@acrocapital.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-03329,Matthew,Lopez,Sterling Capital,matthew.lopez@sterlingcapital.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-03341,Stefan,Fischer,Nexus Logistics,stefan.fischer@nexuslogistics.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-03363,Ava,Anderson,Vertex Systems,ava.anderson@vertexsystems.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-03379,Sophie,Moore,Nova Health,sophie.moore@novahealth.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-03391,Jessica,Thomas,Nova Global,jessica.thomas@novaglobal.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-03394,Jessica,Patel,Vertex Group,jessica.patel@vertexgroup.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-03409,Michael,Taylor,Pinnacle Technologies,michael.taylor@pinnacletechnologies.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-03418,Ethan,Jones,Nexus Consulting,ethan.jones@nexusconsulting.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-03435,David,Weber,Aegis Systems,david.weber@aegissystems.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-03444,Ethan,Thomas,Sterling Consulting,ethan.thomas@sterlingconsulting.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-03473,Andrew,Sharma,Crestview Solutions,andrew.sharma@crestviewsolutions.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-03519,Alexander,Miller,Nova Group,alexander.miller@novagroup.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-03555,Joseph,Mueller,Nexus Global,joseph.mueller@nexusglobal.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-03563,Rahul,Schneider,Nova Logistics,rahul.schneider@novalogistics.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-03581,Marcus,Brown,Centurion Partners,marcus.brown@centurionpartners.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-03608,Olivia,Dubois,Apex Analytics,olivia.dubois@apexanalytics.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-03645,Rohan,Mueller,Infinitum Ventures,rohan.mueller@infinitumventures.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-03664,William,Williams,Crestview Ventures,william.williams@crestviewventures.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-03685,Katja,Dubois,Starlight Group,katja.dubois@starlightgroup.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-03687,Sarah,Martinez,Vertex Capital,sarah.martinez@vertexcapital.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-03689,David,Patel,Optima Partners,david.patel@optimapartners.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-03696,Priya,Wilson,Synergy Industries,priya.wilson@synergyindustries.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-03705,Ava,Thomas,Optima Capital,ava.thomas@optimacapital.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-03711,Olivia,Williams,Vanguard Consulting,olivia.williams@vanguardconsulting.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-03731,Rahul,Kapoor,Quantum Partners,rahul.kapoor@quantumpartners.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-03737,Mia,Anderson,Nova Industries,mia.anderson@novaindustries.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-03747,Sophia,Moore,Apex Partners,sophia.moore@apexpartners.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-03771,William,Gonzalez,Aegis Capital,william.gonzalez@aegiscapital.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-03780,Amelia,Verma,Synergy Digital,amelia.verma@synergydigital.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-03827,David,Verma,Horizon Technologies,david.verma@horizontechnologies.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-03843,Rahul,Davis,Horizon Technologies,rahul.davis@horizontechnologies.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-03851,Charlotte,Schneider,Sterling Ventures,charlotte.schneider@sterlingventures.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-03855,Matthew,Nair,Horizon Partners,matthew.nair@horizonpartners.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-03880,Daniel,Lopez,Catalyst Systems,daniel.lopez@catalystsystems.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-03925,Emily,Taylor,Vanguard Group,emily.taylor@vanguardgroup.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-03926,Sarah,Nair,Catalyst Health,sarah.nair@catalysthealth.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-03960,Harper,Smith,Acro Global,harper.smith@acroglobal.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-03970,Harper,Hernandez,Beacon Solutions,harper.hernandez@beaconsolutions.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-04090,David,Williams,Optima Consulting,david.williams@optimaconsulting.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-04096,Sneha,Anderson,Horizon Logistics,sneha.anderson@horizonlogistics.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-04172,Rohan,Patel,Summit Technologies,rohan.patel@summittechnologies.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-04191,Daniel,Rodriguez,Nexus Capital,daniel.rodriguez@nexuscapital.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-04278,Vikram,Davis,Centurion Technologies,vikram.davis@centuriontechnologies.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-04280,Rahul,Jackson,Acro Industries,rahul.jackson@acroindustries.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-04303,Isabella,Davis,Summit Capital,isabella.davis@summitcapital.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-04304,Rahul,Gonzalez,Pinnacle Technologies,rahul.gonzalez@pinnacletechnologies.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-04330,Rahul,Kapoor,Kore Industries,rahul.kapoor@koreindustries.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-04337,Sophie,Hernandez,Sterling Industries,sophie.hernandez@sterlingindustries.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-04365,Ananya,Miller,Synergy Ventures,ananya.miller@synergyventures.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-04371,Neha,Martin,Infinitum Logistics,neha.martin@infinitumlogistics.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-04372,Stefan,Nair,Crestview Systems,stefan.nair@crestviewsystems.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-04381,Marcus,Kapoor,Horizon Solutions,marcus.kapoor@horizonsolutions.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-04425,Jean,Brown,Starlight Technologies,jean.brown@starlighttechnologies.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-04426,Matthew,Weber,Starlight Consulting,matthew.weber@starlightconsulting.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-04428,Sophie,Lopez,Vanguard Capital,sophie.lopez@vanguardcapital.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-04434,Rohan,Davis,Beacon Health,rohan.davis@beaconhealth.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-04482,Sophie,Johnson,Infinitum Capital,sophie.johnson@infinitumcapital.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-04489,Neha,Gonzalez,Crestview Solutions,neha.gonzalez@crestviewsolutions.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-04526,Vikram,Smith,Optima Systems,vikram.smith@optimasystems.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-04527,Sophia,Wilson,Synergy Logistics,sophia.wilson@synergylogistics.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-04528,Rohan,Williams,Vertex Consulting,rohan.williams@vertexconsulting.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-04576,Harper,Lopez,Nexus Digital,harper.lopez@nexusdigital.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-04594,Lukas,Schneider,Kore Logistics,lukas.schneider@korelogistics.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-04605,Emily,Rodriguez,Horizon Group,emily.rodriguez@horizongroup.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-04606,Jean,Gupta,Acro Consulting,jean.gupta@acroconsulting.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-04633,Marcus,Martinez,Summit Solutions,marcus.martinez@summitsolutions.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-04651,Katja,Schneider,Infinitum Technologies,katja.schneider@infinitumtechnologies.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-04675,Jean,Nair,Catalyst Consulting,jean.nair@catalystconsulting.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-04678,Arjun,Gupta,Infinitum Partners,arjun.gupta@infinitumpartners.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-04733,Rohan,Jones,Vanguard Industries,rohan.jones@vanguardindustries.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-04751,Sarah,Hernandez,Starlight Solutions,sarah.hernandez@starlightsolutions.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-04807,Arjun,Johnson,Kore Partners,arjun.johnson@korepartners.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-04809,Charlotte,Verma,Infinitum Group,charlotte.verma@infinitumgroup.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-04827,Charlotte,Smith,Kore Logistics,charlotte.smith@korelogistics.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-04841,Benjamin,Johnson,Sterling Global,benjamin.johnson@sterlingglobal.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-04864,Amelia,Miller,Acro Technologies,amelia.miller@acrotechnologies.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-04870,Camille,Garcia,Summit Systems,camille.garcia@summitsystems.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-04876,David,Miller,Pinnacle Health,david.miller@pinnaclehealth.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-04921,Andrew,Martinez,Kore Consulting,andrew.martinez@koreconsulting.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-04954,Emily,Nair,Starlight Systems,emily.nair@starlightsystems.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-04965,Camille,Garcia,Centurion Systems,camille.garcia@centurionsystems.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-04976,Arjun,Jones,Starlight Industries,arjun.jones@starlightindustries.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-05025,William,Rodriguez,Summit Systems,william.rodriguez@summitsystems.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-05058,William,Moore,Aegis Digital,william.moore@aegisdigital.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-05065,Robert,Thomas,Paramount Industries,robert.thomas@paramountindustries.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-05074,Robert,Schneider,Catalyst Consulting,robert.schneider@catalystconsulting.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-05082,Andrew,Anderson,Synergy Partners,andrew.anderson@synergypartners.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-05095,Camille,Lopez,Sterling Capital,camille.lopez@sterlingcapital.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-05178,Matthew,Dubois,Aegis Capital,matthew.dubois@aegiscapital.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-05262,Ananya,Thomas,Aegis Analytics,ananya.thomas@aegisanalytics.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-05284,William,Jackson,Acro Ventures,william.jackson@acroventures.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-05326,David,Nair,Infinitum Ventures,david.nair@infinitumventures.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-05340,James,Gupta,Infinitum Global,james.gupta@infinitumglobal.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-05343,Ananya,Hernandez,Synergy Group,ananya.hernandez@synergygroup.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-05366,Rahul,Anderson,Pinnacle Capital,rahul.anderson@pinnaclecapital.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-05407,Marcus,Williams,Catalyst Partners,marcus.williams@catalystpartners.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-05408,Isabella,Kapoor,Pinnacle Systems,isabella.kapoor@pinnaclesystems.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-05417,Sophia,Martinez,Nexus Systems,sophia.martinez@nexussystems.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-05457,Sarah,Lopez,Apex Systems,sarah.lopez@apexsystems.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-05532,William,Patel,Pinnacle Group,william.patel@pinnaclegroup.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-05548,Emily,Lopez,Centurion Health,emily.lopez@centurionhealth.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-05623,Isabella,Jackson,Nexus Industries,isabella.jackson@nexusindustries.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-05661,Rahul,Garcia,Catalyst Solutions,rahul.garcia@catalystsolutions.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-05672,William,Jackson,Optima Global,william.jackson@optimaglobal.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-05679,Lukas,Nair,Paramount Analytics,lukas.nair@paramountanalytics.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-05704,Marcus,Taylor,Beacon Technologies,marcus.taylor@beacontechnologies.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-05757,Neha,Rodriguez,Sterling Analytics,neha.rodriguez@sterlinganalytics.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-05803,Sarah,Verma,Beacon Consulting,sarah.verma@beaconconsulting.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-05817,Amelia,Garcia,Infinitum Systems,amelia.garcia@infinitumsystems.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-05828,Benjamin,Martinez,Horizon Ventures,benjamin.martinez@horizonventures.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-05840,Katja,Gonzalez,Nova Analytics,katja.gonzalez@novaanalytics.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-05882,James,Verma,Nexus Consulting,james.verma@nexusconsulting.com,Hard Bounce (Delivery Failure),2026-09-10
+LEAD-05909,Jessica,Schneider,Apex Health,jessica.schneider@apexhealth.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-05937,Rahul,Verma,Crestview Partners,rahul.verma@crestviewpartners.com,Recipient Opt-Out (Unsubscribed),2026-09-10
+LEAD-05983,Charlotte,Anderson,Summit Global,charlotte.anderson@summitglobal.com,Hard Bounce (Delivery Failure),2026-09-10

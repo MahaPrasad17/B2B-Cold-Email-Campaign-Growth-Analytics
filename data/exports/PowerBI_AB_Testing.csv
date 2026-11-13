@@ -1,0 +1,5 @@
+Test_ID,Campaign_ID,Test_Variable,Variant_A,Variant_B,Emails_Delivered_A,Emails_Delivered_B,Opens_A,Opens_B,Replies_A,Replies_B,Clicks_A,Clicks_B,Positive_Replies_A,Positive_Replies_B,Conversions_A,Conversions_B
+ABT-001,CMP-001,Subject Line,Direct Benefit: 'Reduce technical screening time by 60% with AI',Curiosity Question: 'Quick question regarding your Q3 tech hiring targets',2141,2095,869,1014,62,89,102,105,35,36,17,23
+ABT-002,CMP-002,Call To Action,Direct Calendar Invite: 'Grab a quick 10-min calendar slot here',Low-friction Permission: 'Would you be opposed to seeing a 2-min workflow video?',2003,2100,706,822,28,50,80,149,11,21,5,15
+ABT-003,CMP-003,Personalization Hook,Peer Benchmark Hook: 'How Tier-1 consulting firms cut candidate drop-off by 40%',Headcount Growth Hook: 'Noticed your team is expanding client consulting headcount',2115,2055,1159,983,136,91,126,128,73,51,52,30
+ABT-004,CMP-004,Email Body Length,Short & Punchy (under 75 words): Value proposition + metric proof,Case Study Format (150 words): Customer narrative and quotes,2008,2089,855,791,56,38,109,91,19,15,13,10

@@ -1,0 +1,5 @@
+Campaign_ID,Campaign_Name,Campaign_Type,Target_Industry,Campaign_Start_Date,Campaign_End_Date,Total_Leads,Campaign_Status,Objective
+CMP-001,IT Tech Hiring Velocity Q1,Outbound Cold Outreach,Information Technology,2026-06-01,2026-07-15,1513,Completed,Engage IT HR and TA leaders to automate engineering screening with GoodSpace AI
+CMP-002,Manufacturing Plant & Eng Talent Pipeline,Outbound Cold Outreach,Manufacturing,2026-06-15,2026-07-31,1461,Completed,Assist manufacturing talent teams in sourcing plant engineers and supply chain specialists
+CMP-003,Consulting Executive Search & Onboarding,Outbound Cold Outreach,Consulting,2026-07-01,2026-08-20,1514,Completed,Partner with consulting firm recruitment directors to accelerate partner-track talent acquisition
+CMP-004,Fintech & Banking Compliance Hiring,Outbound Cold Outreach,Banking and Finance,2026-07-15,2026-09-05,1461,Completed,"Help financial institutions source pre-vetted compliance, risk, and quantitative talent"
